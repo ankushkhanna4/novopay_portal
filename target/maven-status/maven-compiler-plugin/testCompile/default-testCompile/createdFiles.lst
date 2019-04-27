@@ -1,0 +1,4 @@
+tests\ui\HomePageTest.class
+tests\ui\LoginTest.class
+tests\New_FlowMapper.class
+tests\ui\CheckerInboxAndTasksTest.class

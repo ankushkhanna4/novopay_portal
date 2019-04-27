@@ -1,0 +1,11 @@
+in\novopay\platform_ui\utils\DeleteReportFile.class
+in\novopay\platform_ui\utils\JavaUtils.class
+in\novopay\platform_ui\utils\KeyCode.class
+in\novopay\platform_ui\pages\web\WebHomePage.class
+in\novopay\platform_ui\pages\web\WebCheckerInboxAndTasksPage.class
+in\novopay\platform_ui\pages\web\WebLoginPage.class
+in\novopay\platform_ui\utils\BasePage.class
+in\novopay\platform_ui\utils\Log.class
+in\novopay\platform_ui\App.class
+in\novopay\platform_ui\utils\CryptoException.class
+in\novopay\platform_ui\utils\CryptoUtil.class
